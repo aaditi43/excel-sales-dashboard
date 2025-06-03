@@ -1,4 +1,5 @@
 # 📊 Excel Sales Dashboard
+![Excel Sales Dashboard](dashboard.png)
 
 An interactive and insightful **Sales Dashboard** built using **Microsoft Excel**, designed to visualize key sales metrics for better decision-making.
 
