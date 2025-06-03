@@ -23,7 +23,7 @@ This project showcases the power of Excel in building visually compelling dashbo
 - `raw-data` sheet — Contains original sales data
 - `pivot-tables` — Used for dynamic reporting
 - `charts` — Clean, interactive visuals
-- *(Add more file names if needed)*
+
 
 ---
 
